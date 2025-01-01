@@ -37,7 +37,7 @@ namespace mytestscontainers
         }
 
         [Test]
-        public void Test_Privacy_ViewData1()
+        public void Test_Privacy_ViewData()
         {
             HomeController controller = new HomeController();
 
