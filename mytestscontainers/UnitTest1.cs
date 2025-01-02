@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Logging;
 using scontainers.Controllers;
 
-namespace mytestscontainers
+namespace mytestscontainer
 {
     public class Tests
     {
